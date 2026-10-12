@@ -4,4 +4,4 @@
 
 # Reference
 
-Deng XL*, Sneeuw N (2026) Self-consistent transformation of first-, second-, and third-order potential gradients among Cartesian, cylindrical, and spherical coordinates. Journal of Geodesy, 100(2), 10:1-25. doi:  https://doi.org/10.1007/s00190-025-02025-6
+**Deng XL***, Sneeuw N (2026a) Self-consistent transformation of first-, second-, and third-order potential gradients among Cartesian, cylindrical, and spherical coordinates. Journal of Geodesy, 100(2), 10:1-25. doi:  https://doi.org/10.1007/s00190-025-02025-6
